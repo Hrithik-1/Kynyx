@@ -1,6 +1,6 @@
 import React from "react";
 import { DotLottieReact } from "@lottiefiles/dotlottie-react";
-import Logovideo from '../assets/Logo3.mp4';
+import Logovideo from '../assets/logo3.mp4';
 
 const Hero = () => (
   <section className="relative w-full h-[680px] flex items-center justify-center overflow-hidden bg-gradient-to-br from-[#1a242e] to-[#0f0f1a] text-white">
